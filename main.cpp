@@ -8,5 +8,5 @@ int main()
     std::cin >> name;
     std::cout << "Hello " << name << "!" << std::endl;
 
-    return 1;
+    return 0;
 }
