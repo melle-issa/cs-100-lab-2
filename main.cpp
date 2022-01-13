@@ -1,3 +1,4 @@
+#include "c-count.h"
 #include "c-echo.h"
 
 int main(int argv, char** argc) {
